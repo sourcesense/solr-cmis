@@ -1,0 +1,12 @@
+<config>
+	<repos>
+	<url>http://localhost:8080/alfresco/service/cmis</url>
+	<user>admin</user>
+	<password>admin</password>
+	<space>test</space>
+	</repos>
+	<solr>
+	<url>http://localhost:8983/solr</url>
+	<corePath>/Users/developer/apache-solr-1.4.1/example/solr</corePath>
+	</solr>
+</config>

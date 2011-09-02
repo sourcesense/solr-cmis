@@ -1,0 +1,10 @@
+<config>
+	<repos>
+    <url>www.google.it</url>
+    <user>admin</user>
+    <password>admin</password>
+    </repos>
+	<solr>
+    <url>http://localhost:8080/Solr</url>
+    </solr>
+	</config>
