@@ -1,0 +1,1 @@
+1) se necessario sostituire , printStackTrace con un sistema di logging
